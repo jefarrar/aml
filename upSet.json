@@ -1,0 +1,22 @@
+{
+	"file": "https://raw.githubusercontent.com/jefarrar/targetaml/master/upSet_20180105.csv",
+	"name": "AML Genomic Data 20180105",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "USI" },
+		{ "type": "float", "index": 24, "name": "Primary TCS Depth" },
+		{ "type": "float", "index": 25, "name": "Relapse TCS Depth" },
+		{ "type": "float", "index": 26, "name": "Germline TCS Depth" },
+		{ "type": "integer", "index": 27, "name": "Primary TARGET RNAseq reads" },
+		{ "type": "integer", "index": 28, "name": "Primary TARGET RNAseq reads aligned" },
+		{ "type": "integer", "index": 29, "name": "Relapse TARGET RNAseq reads" },
+		{ "type": "integer", "index": 30, "name": "Relapse TARGET RNAseq reads aligned" },
+		{ "type": "integer", "index": 31, "name": "Primary low-pass RNAseq reads" },
+		{ "type": "integer", "index": 32, "name": "Primary low-pass RNAseq reads aligned" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 23 }
+	]
+}
