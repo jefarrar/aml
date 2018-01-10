@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/jefarrar/targetaml/master/upSet_20180105.csv",
+	"file": "https://raw.githubusercontent.com/jefarrar/aml/master/upSet_20180105.csv",
 	"name": "AML Genomic Data 20180105",
 	"header": 0,
 	"separator": ",",
